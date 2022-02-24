@@ -2,4 +2,4 @@ Name: Mo Yin Yi
 
 SID: 20713328
 
-!(/image.PNG)
+!(/assets/images/image.PNG)
